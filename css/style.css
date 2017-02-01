@@ -4,3 +4,10 @@ h1{
 div{
   background-color: red;
 }
+
+.purple{
+  background: purple;
+}
+.purpleText{
+  color:purple;
+}
